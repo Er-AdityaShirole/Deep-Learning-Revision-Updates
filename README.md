@@ -9,9 +9,9 @@ I take screenshots during lectures, write notes on them, download code files, an
 
 ## 📊 Revision Progress Dashboard
 
-- **Current Goal**: Complete foundation concepts, activation functions, loss functions, and backpropagation optimization.
-- **Status**: **Revising Lectures L3 through L18** 📚
-- **Active Code Projects**: Customer Churn Prediction (ANN), MNIST Digit Classification, Graduate Admission Prediction.
+- **Current Goal**: Complete foundation concepts, optimization, regularization, and activation function improvements.
+- **Status**: **Revising Lectures L3 through L28** 📚
+- **Active Code Projects**: Customer Churn Prediction (ANN), MNIST Digit Classification, Graduate Admission Prediction, Batch vs Stochastic Gradient Descent.
 
 ---
 
@@ -37,6 +37,16 @@ Below is the structured roadmap of my revision notes. Click on any lesson link t
 | **L16** | [Backpropagation: Part 2](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L16/README.md) | "The How" - Chain rule math, regression from scratch | Notes 📝 |
 | **L17** | [Backpropagation: Part 3](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L17/README.md) | "The Why" - Analytical vs Numerical gradients, minima | Notes 📝 |
 | **L18** | [Vanishing Gradients](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L18/README.md) | Saturating activations, ReLU, skip connections | Notes 📝 |
+| **L19** | [MLP Memoization](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L19/README.md) | Caching activations, derivatives, efficient backpropagation | Notes 📝 |
+| **L20** | [Gradient Descent Variants](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L20/README.md) | Batch GD, stochastic GD, mini-batch GD, batch size | [GD Notebook](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L20/Batch_vs_stochastic_GD.ipynb) 💻 |
+| **L21** | [Improving Neural Network Performance](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L21/README.md) | Hyperparameter tuning, overfitting, slow training, data issues | Notes 📝 |
+| **L22** | [Early Stopping](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L22/README.md) | Validation loss monitoring, patience, best weight restoration | Notes 📝 |
+| **L23** | [Feature Scaling in Neural Networks](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L23/README.md) | Standardization, normalization, faster convergence | Notes 📝 |
+| **L24** | [Dropout Layers](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L24/README.md) | Dropout regularization, neuron dropping, generalization | Notes 📝 |
+| **L25** | [Dropout Code Example](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L25/README.md) | Regression/classification examples, dropout rate effects | Notes 📝 |
+| **L26** | [L1 and L2 Regularization](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L26/README.md) | Weight penalties, sparsity, weight decay | Notes 📝 |
+| **L27** | [Activation Functions](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L27/README.md) | Sigmoid, Tanh, ReLU, saturation, gradient flow | Notes 📝 |
+| **L28** | [ReLU Variants](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L28/README.md) | Dying ReLU, Leaky ReLU, PReLU, ELU, SELU | Notes 📝 |
 
 ---
 
