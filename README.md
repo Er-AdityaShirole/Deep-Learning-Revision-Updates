@@ -10,7 +10,7 @@ I take screenshots during lectures, write notes on them, download code files, an
 ## 📊 Revision Progress Dashboard
 
 - **Current Goal**: Complete foundation concepts, optimization, regularization, and activation function improvements.
-- **Status**: **Revising Lectures L3 through L28** 📚
+- **Status**: **Revising Lectures L3 through L35** 📚
 - **Active Code Projects**: Customer Churn Prediction (ANN), MNIST Digit Classification, Graduate Admission Prediction, Batch vs Stochastic Gradient Descent.
 
 ---
@@ -47,6 +47,13 @@ Below is the structured roadmap of my revision notes. Click on any lesson link t
 | **L26** | [L1 and L2 Regularization](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L26/README.md) | Weight penalties, sparsity, weight decay | Notes 📝 |
 | **L27** | [Activation Functions](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L27/README.md) | Sigmoid, Tanh, ReLU, saturation, gradient flow | Notes 📝 |
 | **L28** | [ReLU Variants](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L28/README.md) | Dying ReLU, Leaky ReLU, PReLU, ELU, SELU | Notes 📝 |
+| **L29** | [Weight Initialization Mistakes](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L29/README.md) | Zero initialization, same-value initialization, symmetry problem | [Init Notebooks](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L29/) 💻 |
+| **L30** | [Xavier and He Initialization](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L30/README.md) | Fan-in, fan-out, Glorot initialization, He initialization | Notes 📝 |
+| **L31** | [Batch Normalization](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L31/README.md) | Internal covariate shift, batch statistics, gamma and beta | Notes 📝 |
+| **L32** | [Optimizers in Deep Learning](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L32/README.md) | Gradient descent challenges, local minima, saddle points, curvature | Notes 📝 |
+| **L33** | [Exponentially Weighted Moving Average](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L33/README.md) | EWMA, beta, smoothing, optimizer memory | Notes 📝 |
+| **L34** | [SGD with Momentum](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L34/README.md) | Velocity, momentum coefficient, zig-zag reduction | Notes 📝 |
+| **L35** | [Nesterov Accelerated Gradient](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L35/README.md) | Look-ahead gradient, momentum correction, overshooting | Notes 📝 |
 
 ---
 
