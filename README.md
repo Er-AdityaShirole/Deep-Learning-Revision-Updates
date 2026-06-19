@@ -10,7 +10,7 @@ I take screenshots during lectures, write notes on them, download code files, an
 ## 📊 Revision Progress Dashboard
 
 - **Current Goal**: Complete foundation concepts, optimization, regularization, and activation function improvements.
-- **Status**: **Revising Lectures L3 through L35** 📚
+- **Status**: **Revising Lectures L3 through L38** 📚
 - **Active Code Projects**: Customer Churn Prediction (ANN), MNIST Digit Classification, Graduate Admission Prediction, Batch vs Stochastic Gradient Descent.
 
 ---
@@ -54,6 +54,9 @@ Below is the structured roadmap of my revision notes. Click on any lesson link t
 | **L33** | [Exponentially Weighted Moving Average](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L33/README.md) | EWMA, beta, smoothing, optimizer memory | Notes 📝 |
 | **L34** | [SGD with Momentum](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L34/README.md) | Velocity, momentum coefficient, zig-zag reduction | Notes 📝 |
 | **L35** | [Nesterov Accelerated Gradient](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L35/README.md) | Look-ahead gradient, momentum correction, overshooting | Notes 📝 |
+| **L36** | [AdaGrad Optimizer](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L36/README.md) | Adaptive learning rates, squared gradient accumulation, sparse features | Notes 📝 |
+| **L37** | [RMSProp Optimizer](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L37/README.md) | EWMA of squared gradients, AdaGrad improvement, adaptive scaling | Notes 📝 |
+| **L38** | [Adam Optimizer](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L38/README.md) | Momentum, RMSProp, bias correction, adaptive moment estimation | Notes 📝 |
 
 ---
 
