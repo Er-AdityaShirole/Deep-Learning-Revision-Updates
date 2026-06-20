@@ -10,7 +10,7 @@ I take screenshots during lectures, write notes on them, download code files, an
 ## 📊 Revision Progress Dashboard
 
 - **Current Goal**: Complete foundation concepts, optimization, regularization, and activation function improvements.
-- **Status**: **Revising Lectures L3 through L38** 📚
+- **Status**: **Revising Lectures L3 through L45** 📚
 - **Active Code Projects**: Customer Churn Prediction (ANN), MNIST Digit Classification, Graduate Admission Prediction, Batch vs Stochastic Gradient Descent.
 
 ---
@@ -57,6 +57,13 @@ Below is the structured roadmap of my revision notes. Click on any lesson link t
 | **L36** | [AdaGrad Optimizer](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L36/README.md) | Adaptive learning rates, squared gradient accumulation, sparse features | Notes 📝 |
 | **L37** | [RMSProp Optimizer](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L37/README.md) | EWMA of squared gradients, AdaGrad improvement, adaptive scaling | Notes 📝 |
 | **L38** | [Adam Optimizer](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L38/README.md) | Momentum, RMSProp, bias correction, adaptive moment estimation | Notes 📝 |
+| **L39** | [Hyperparameter Tuning](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L39/README.md) | Grid Search, Random Search, Bayesian Optimization, Optuna, ASHA | [Tuning Notebook](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L39/main.ipynb) 💻 |
+| **L40** | [Introduction to CNNs](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L40/README.md) | What is a CNN, Why CNNs over ANNs, Spatial arrangement of pixels | Notes 📝 |
+| **L41** | [CNN vs Visual Cortex](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L41/README.md) | Hubel & Wiesel Cat Experiment, History of CNNs | Notes 📝 |
+| **L42** | [Convolution Operation](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L42/README.md) | Feature Maps, Convolutions on RGB, Edge Detection | Notes 📝 |
+| **L43** | [Padding and Strides](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L43/README.md) | Valid vs Same Padding, Stride calculations | [Padding Notebook](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L43/keras_padding_demo.ipynb) 💻 |
+| **L44** | [Pooling Layers](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L44/README.md) | Max Pooling, Average Pooling, Translation Invariance | [Pooling Notebook](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L44/keras_pooling_demo.ipynb) 💻 |
+| **L45** | [LeNet-5 Architecture](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L45/README.md) | Classical CNN design, Tanh activation, Average Pooling | Notes 📝 |
 
 ---
 
