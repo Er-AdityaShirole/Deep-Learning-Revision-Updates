@@ -71,4 +71,4 @@ Below is the structured roadmap of my revision notes. Click on any lesson link t
 
 1. **Self-Revision**: I use these files to quickly review mathematical notations and concepts before proceeding to advanced architectures.
 2. **Markdown LaTeX Support**: Math equations are fully rendered using LaTeX notation (`$...$` and `$$...$$`) for readability.
-3. **Interactive Navigation**: Use the [road map](#🗺️-syllabus-&-lecture-index) to navigate directly into each lesson folder's notes.
+3. **Interactive Navigation**: Use the [roadmap](#🗺️-syllabus-&-lecture-index) to navigate directly into each lesson folder's notes.
