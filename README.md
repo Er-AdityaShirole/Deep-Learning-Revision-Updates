@@ -9,9 +9,9 @@ I take screenshots during lectures, write notes on them, download code files, an
 
 ## 📊 Revision Progress Dashboard
 
-- **Current Goal**: Complete foundation concepts, optimization, regularization, and activation function improvements.
-- **Status**: **Revising Lectures L3 through L52** 📚
-- **Active Code Projects**: Customer Churn Prediction (ANN), MNIST Digit Classification, Graduate Admission Prediction, Batch vs Stochastic Gradient Descent.
+- **Current Goal**: Complete CNN transfer learning, functional model graphs, and the transition into sequence modeling.
+- **Status**: **Revising Lectures L3 through L55** 📚
+- **Active Code Projects**: Customer Churn Prediction (ANN), MNIST Digit Classification, Cat vs Dog CNN, Transfer Learning with VGG16, Functional API model graphs.
 
 ---
 
@@ -71,6 +71,9 @@ Below is the structured roadmap of my revision notes. Click on any lesson link t
 | **L50** | [Data Augmentation](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L50/README.md) | ImageDataGenerator, rotation, shearing, flipping, fighting overfitting | Notes 📝 |
 | **L51** | [Pretrained Models & Transfer Learning](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L51/README.md) | ImageNet, ILSVRC, AlexNet, VGG16/19, ResNet50, Keras Applications | Notes 📝 |
 | **L52** | [Visualizing CNN Filters & Maps](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L52/README.md) | What CNNs see, filter weights visualization, intermediate feature maps | [CNN Visualization Notebook](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L52/visualising_cnn.ipynb) 💻 |
+| **L53** | [Transfer Learning in Practice](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L53/README.md) | Feature extraction, data augmentation, fine-tuning, frozen convolutional bases | [Transfer Learning Notebooks](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L53/) 💻 |
+| **L54** | [Keras Functional API](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L54/README.md) | Non-linear model graphs, multiple outputs, loss weighting, shared layers | Notes 📝 |
+| **L55** | [Why RNNs Are Needed](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L55/README.md) | Sequential data, memory, hidden state, RNN roadmap, sequence modeling | Notes 📝 |
 
 ---
 
