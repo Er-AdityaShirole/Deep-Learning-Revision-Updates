@@ -10,7 +10,7 @@ I take screenshots during lectures, write notes on them, download code files, an
 ## 📊 Revision Progress Dashboard
 
 - **Current Goal**: Complete foundation concepts, optimization, regularization, and activation function improvements.
-- **Status**: **Revising Lectures L3 through L45** 📚
+- **Status**: **Revising Lectures L3 through L52** 📚
 - **Active Code Projects**: Customer Churn Prediction (ANN), MNIST Digit Classification, Graduate Admission Prediction, Batch vs Stochastic Gradient Descent.
 
 ---
@@ -64,6 +64,13 @@ Below is the structured roadmap of my revision notes. Click on any lesson link t
 | **L43** | [Padding and Strides](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L43/README.md) | Valid vs Same Padding, Stride calculations | [Padding Notebook](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L43/keras_padding_demo.ipynb) 💻 |
 | **L44** | [Pooling Layers](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L44/README.md) | Max Pooling, Average Pooling, Translation Invariance | [Pooling Notebook](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L44/keras_pooling_demo.ipynb) 💻 |
 | **L45** | [LeNet-5 Architecture](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L45/README.md) | Classical CNN design, Tanh activation, Average Pooling | Notes 📝 |
+| **L46** | [Comparing CNN vs ANN](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L46/README.md) | Parameter counts, connection sparsity, computational comparisons | Notes 📝 |
+| **L47** | [Backpropagation in CNN: Part 1](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L47/README.md) | Chain rule in CNNs, parameter gradients, backpropagating through dense layers | Notes 📝 |
+| **L48** | [Backpropagation in CNN: Part 2](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L48/README.md) | Backpropagation through Conv, MaxPooling, and Flatten layers | Notes 📝 |
+| **L49** | [Cat vs Dog CNN Project](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L49/README.md) | Dataset loading from directory, normalization, binary classification ANN/CNN | [Cat vs Dog Notebook](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L49/main.ipynb) 💻 |
+| **L50** | [Data Augmentation](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L50/README.md) | ImageDataGenerator, rotation, shearing, flipping, fighting overfitting | Notes 📝 |
+| **L51** | [Pretrained Models & Transfer Learning](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L51/README.md) | ImageNet, ILSVRC, AlexNet, VGG16/19, ResNet50, Keras Applications | Notes 📝 |
+| **L52** | [Visualizing CNN Filters & Maps](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L52/README.md) | What CNNs see, filter weights visualization, intermediate feature maps | [CNN Visualization Notebook](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L52/visualising_cnn.ipynb) 💻 |
 
 ---
 
