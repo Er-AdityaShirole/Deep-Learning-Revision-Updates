@@ -9,9 +9,9 @@ I take screenshots during lectures, write notes on them, download code files, an
 
 ## 📊 Revision Progress Dashboard
 
-- **Current Goal**: Complete CNN transfer learning, functional model graphs, and the transition into sequence modeling.
-- **Status**: **Revising Lectures L3 through L55** 📚
-- **Active Code Projects**: Customer Churn Prediction (ANN), MNIST Digit Classification, Cat vs Dog CNN, Transfer Learning with VGG16, Functional API model graphs.
+- **Current Goal**: Continue sequence modeling with RNN architecture, Keras implementation, RNN variants, and BPTT.
+- **Status**: **Revising Lectures L3 through L59** 📚
+- **Active Code Projects**: Customer Churn Prediction (ANN), MNIST Digit Classification, Cat vs Dog CNN, Transfer Learning with VGG16, Functional API model graphs, RNN sentiment analysis.
 
 ---
 
@@ -74,6 +74,10 @@ Below is the structured roadmap of my revision notes. Click on any lesson link t
 | **L53** | [Transfer Learning in Practice](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L53/README.md) | Feature extraction, data augmentation, fine-tuning, frozen convolutional bases | [Transfer Learning Notebooks](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L53/) 💻 |
 | **L54** | [Keras Functional API](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L54/README.md) | Non-linear model graphs, multiple outputs, loss weighting, shared layers | Notes 📝 |
 | **L55** | [Why RNNs Are Needed](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L55/README.md) | Sequential data, memory, hidden state, RNN roadmap, sequence modeling | Notes 📝 |
+| **L56** | [RNN Forward Propagation & Architecture](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L56/README.md) | Recurrent cell, hidden state update, shared weights across time | Notes 📝 |
+| **L57** | [RNN Sentiment Analysis in Keras](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L57/README.md) | Tokenization, padding, embeddings, SimpleRNN, IMDB sentiment classification | [RNN Notebooks](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L57/) 💻 |
+| **L58** | [Types of RNN Architectures](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L58/README.md) | One-to-many, many-to-one, many-to-many, encoder-decoder patterns | Notes 📝 |
+| **L59** | [Backpropagation Through Time](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L59/README.md) | Unrolled RNN graph, shared-weight gradients, vanishing and exploding gradients | Notes 📝 |
 
 ---
 
