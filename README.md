@@ -10,7 +10,7 @@ I take screenshots during lectures, write notes on them, download code files, an
 ## 📊 Revision Progress Dashboard
 
 - **Current Goal**: Continue sequence modeling with RNN architecture, Keras implementation, RNN variants, and BPTT.
-- **Status**: **Revising Lectures L3 through L59** 📚
+- **Status**: **Revising Lectures L3 through L60** 📚
 - **Active Code Projects**: Customer Churn Prediction (ANN), MNIST Digit Classification, Cat vs Dog CNN, Transfer Learning with VGG16, Functional API model graphs, RNN sentiment analysis.
 
 ---
@@ -78,6 +78,7 @@ Below is the structured roadmap of my revision notes. Click on any lesson link t
 | **L57** | [RNN Sentiment Analysis in Keras](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L57/README.md) | Tokenization, padding, embeddings, SimpleRNN, IMDB sentiment classification | [RNN Notebooks](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L57/) 💻 |
 | **L58** | [Types of RNN Architectures](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L58/README.md) | One-to-many, many-to-one, many-to-many, encoder-decoder patterns | Notes 📝 |
 | **L59** | [Backpropagation Through Time](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L59/README.md) | Unrolled RNN graph, shared-weight gradients, vanishing and exploding gradients | Notes 📝 |
+| **L60** | [Problems with RNNs](file:///C:/Users/lenovo/Desktop/Deep%20Learning/L60/README.md) | Long-term dependencies, vanishing & exploding gradients math, clipping, gates | Notes 📝 |
 
 ---
 
